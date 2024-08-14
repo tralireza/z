@@ -1,0 +1,4 @@
+FreeBSD clang version 16.0.6 (https://github.com/llvm/llvm-project.git llvmorg-16.0.6-0-g7cbf1a259152)
+Target: x86_64-unknown-freebsd14.0
+Thread model: posix
+InstalledDir: /usr/bin
