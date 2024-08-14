@@ -1,0 +1,21 @@
+set from="Alireza T. <trb@alireza.me>"
+
+set mbox_type=Maildir
+set folder="~/Maildir"
+set spoolfile="+/"
+set record="+/.Sent Messages"
+set header_cache="~/.cache/mutt"
+
+set ssl_force_tls=no
+set ssl_starttls=no
+set smtp_url="smtp://z:25"
+
+set editor="vim"
+
+my_hdr X-ZOs: `uname -a`
+
+folder-hook . 'set sort=threads'
+
+alternates @*.domain.local
+
+color index default default .
