@@ -1,4 +1,4 @@
-FreeBSD clang version 16.0.6 (https://github.com/llvm/llvm-project.git llvmorg-16.0.6-0-g7cbf1a259152)
-Target: x86_64-unknown-freebsd14.0
+FreeBSD clang version 18.1.5 (https://github.com/llvm/llvm-project.git llvmorg-18.1.5-0-g617a15a9eac9)
+Target: x86_64-unknown-freebsd14.1
 Thread model: posix
 InstalledDir: /usr/bin
