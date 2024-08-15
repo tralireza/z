@@ -1,4 +1,4 @@
 NAME       SIZE  ALLOC   FREE  CKPOINT  EXPANDSZ   FRAG    CAP  DEDUP    HEALTH  ALTROOT
 bkzStore  63.5G  41.0G  22.5G        -         -     0%    64%  1.00x    ONLINE  -
 zStore    3.62T  3.31T   321G        -         -    51%    91%  1.00x    ONLINE  -
-zroot     6.50G  3.32G  3.18G        -         -     8%    51%  1.00x    ONLINE  -
+zroot     5.50G  2.03G  3.47G        -         -     3%    36%  1.00x    ONLINE  -
